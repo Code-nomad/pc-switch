@@ -18,8 +18,6 @@ logger:
 # Enable Home Assistant API
 api:
 
-dashboard_import:
-  package_import_url: github://ajfriesen/pc-switch/pc-switch.yaml@main
 
 # Put ota password here
 ota:
